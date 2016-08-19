@@ -7,19 +7,19 @@
 
 ## 目錄
 * 撈資料程式
-  * [取得米價](取得米價)
-  * [取得農作物交易價格](取得農作物交易價格)
+  * [取得米價](取得米價(GetRicePrice))
+  * [取得農作物交易價格](取得農作物交易價格(GetFarmProduct))
 * 產出報表程式
-  * [日報表](日報表)
+  * [日報表](日報表(DailyReport))
 
 ---
 ### 取得米價(GetRicePrice)
 資料來源：
-[行政院農業委員會農糧署 - 糧價查詢](http://210.69.25.143/report, "http://210.69.25.143/report")
+[行政院農業委員會農糧署 - 糧價查詢](http://210.69.25.143/report "http://210.69.25.143/report")
 
 ### 取得農作物交易價格(GetFarmProduct)
 資料來源：
-[行政院農業委員會農糧署 - 農產品批發市場交易行情站](http://amis.afa.gov.tw/main/Main.aspx, "http://amis.afa.gov.tw/main/Main.aspx")
+[行政院農業委員會農糧署 - 農產品批發市場交易行情站](http://amis.afa.gov.tw/main/Main.aspx "http://amis.afa.gov.tw/main/Main.aspx")
 
 ### 日報表(DailyReport)
 複製範本檔，填入當日資訊，輸出為excel。
