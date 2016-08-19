@@ -11,6 +11,8 @@
   * [取得農作物交易價格](#取得農作物交易價格getfarmproduct))
 * 產出報表程式
   * [日報表](#日報表dailyreport)
+* 資料庫
+  * [PostgreSQL](#資料庫database)
 
 ---
 ### 取得米價(GetRicePrice)
@@ -23,3 +25,7 @@
 
 ### 日報表(DailyReport)
 複製範本檔，填入當日資訊，輸出為excel。
+
+### 資料庫(Database)
+* 安裝PostgreSQL 9.5以上版本
+* 還原coa_opendata.backup
