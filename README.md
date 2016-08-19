@@ -7,10 +7,10 @@
 
 ## ヘ魁
 * 即戈祘Α
-  * [眔μ基](#眔μ基(GetRicePrice))
-  * [眔笰ユ基](#眔笰ユ基(GetFarmProduct))
+  * [眔μ基](#眔μ基getriceprice)
+  * [眔笰ユ基](#眔笰ユ基getfarmproduct))
 * 玻厨祘Α
-  * [ら厨](#ら厨(DailyReport))
+  * [ら厨](#ら厨dailyreport)
 
 ---
 ### 眔μ基(GetRicePrice)
