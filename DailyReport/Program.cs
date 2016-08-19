@@ -20,7 +20,7 @@ namespace DailyReport
 
             #region 讀取範本excel檔中的資料
             XSSFWorkbook workbook;
-            using (FileStream fs = new FileStream("日報表範本.xlsx", FileMode.Open, FileAccess.Read, FileShare.ReadWrite))
+            using (FileStream fs = new FileStream("template.xlsx", FileMode.Open, FileAccess.Read, FileShare.ReadWrite))
             {
                 workbook = new XSSFWorkbook(fs);
                 fs.Close();
