@@ -1,0 +1,10 @@
+﻿<Application x:Class="DailyReportGUI.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:interactivity="schemas.microsoft.com/expression/2010/i‌​nteractivity"
+             xmlns:local="clr-namespace:DailyReportGUI"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
